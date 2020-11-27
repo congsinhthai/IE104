@@ -1,0 +1,30 @@
+.mau_do{
+    color: red; 
+}
+.in_dam{
+    font-weight: bold; 
+}
+.gach_chan{
+    text-decoration: underline;
+}
+
+.doan_cuoi
+{
+    color: gray;
+    font-size: 12px;
+}
+
+.chinh{
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 14px;
+    margin: 60px 0px 50px 414px;
+    position: absolute;
+    background-color: #000000;
+}
+
+body
+{
+    background-image: url('../img/background.gif');
+    background-size: 101%;
+}

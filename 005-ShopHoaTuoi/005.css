@@ -1,0 +1,18 @@
+@font-face{
+    font-family: myFont;
+    src:url(../fonts/UTM\ Wedding\ K_T.ttf);
+}
+h1{
+    font-family: myFont;
+    text-align:center ;
+    color:#FF0099;
+}
+body{
+    background-image: url(./005-nen-hoa-hong.jpg);
+    background-position:right bottom;
+     background-repeat:no-repeat;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+
+}

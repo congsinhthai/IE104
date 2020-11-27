@@ -1,0 +1,39 @@
+p
+{
+    color :#000000;
+    text-align: justify;
+}
+body{
+    font-size: 15pt;
+}
+#h1-title
+{
+    text-align :center;
+    color:#FF6600; 
+    border :#00ff00 double;
+    text-transform: capitalize; 
+}
+
+.class1{
+    color:#00ff00; 
+    font-size: 50px; 
+    font-style: italic;
+    font-weight: bold;
+}
+#h1-comment
+{
+    text-align:right;
+    color:#FFFFFF;
+    background-color: #00ff00;
+}
+#span1
+{
+    background-color: #FF6600;
+}
+.cmt1
+{
+    margin-bottom: 35px;
+}
+hr{
+    color: lawngreen;
+}

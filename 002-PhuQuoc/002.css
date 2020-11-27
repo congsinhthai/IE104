@@ -1,0 +1,52 @@
+body
+{
+    background-image: url(002-PQ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 100px 0px;
+}
+
+h1
+{ 
+    text-align : center;
+    color: #ffee00;
+    font-style:inherit;
+    padding: 10px 10px;
+}
+div
+{
+    text-align:justify;
+    color:#FFFFFF;
+    
+}
+h3
+{    
+    text-align : justify;
+    color: #FF0000;
+}
+p
+{
+
+    text-indent: 50px;
+}
+
+#title2
+{
+    text-align : justify;
+    color: #ff7300;
+}
+#title3
+{
+    text-align :justify;
+    color: #00ff0d;
+}
+#title4
+{
+    text-align : justify;
+    color: #a200ff;
+}
+#para1
+{
+    text-indent: 0px;
+    font-style: italic;
+}
